@@ -1,0 +1,14 @@
+{
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "compression": "registry:dt/compression#0.0.0+20160501162003",
+    "debug": "registry:dt/debug#0.0.0+20160317120654",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "inherits": "registry:dt/inherits#0.0.0+20160316155526",
+    "jade": "registry:dt/jade#0.0.0+20160316155526",
+    "method-override": "registry:dt/method-override#0.0.0+20160317120654",
+    "mongoose": "registry:dt/mongoose#4.5.4+20160716020856",
+    "node": "registry:dt/node#6.0.0+20160709114037",
+    "stylus": "registry:dt/stylus#0.0.0+20160317120654"
+  }
+}
